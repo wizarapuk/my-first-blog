@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d3077d1-d269-4472-a2f0-a9b822b9c374" name="Default Changelist" comment="ok">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/mensagem.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,9 +140,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="818" />
-    <option name="y" value="14" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="543" />
     <option name="width" value="720" />
     <option name="height" value="860" />
   </component>
@@ -240,8 +236,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="818" y="14" width="720" height="860" extended-state="0" />
-    <editor active="true" />
+    <frame x="543" y="0" width="720" height="860" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24926686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
